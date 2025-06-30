@@ -1,16 +1,26 @@
-# my_app
+# ✨ Modern Auth UI – Flutter App
 
-A new Flutter project.
+A beautifully crafted Flutter app with a modern **Sign Up / Sign In** screen, designed with clean UI, smooth animations, and user-friendly UX in mind.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 Modern **Login & Registration** UI
+- 🎨 Beautiful layout with responsive design
+- 📱 Built for **Android & iOS**
+- 💡 Custom form validation
+- 💻 Ready to integrate with Firebase or any backend
+- 🎯 Built using Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📦 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+flutter pub get
+flutter run
