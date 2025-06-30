@@ -16,7 +16,7 @@ A beautifully crafted Flutter app with a modern **Sign Up / Sign In** screen, de
 ---
 
 ## 📦 Getting Started
-
+![Sign Up Screen](assets/images/UI.jpg)
 To run this project locally:
 
 ```bash
